@@ -1,0 +1,1 @@
+package com.example.flutterapp; public class MainActivity {}
